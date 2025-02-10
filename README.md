@@ -42,6 +42,6 @@ If you want to explore the data, you'll need Python 3.x and some data science li
 
 After spending time with this data, a few things became clear:
 
-Simple fuel management issues still cause too many accidents
-Takeoffs and landings remain the riskiest parts of any flight
-Weather decision-making is a key differentiator between commercial and private operations
+- Simple fuel management issues still cause too many accidents
+- Takeoffs and landings remain the riskiest parts of any flight
+- Weather decision-making is a key differentiator between commercial and private operations
